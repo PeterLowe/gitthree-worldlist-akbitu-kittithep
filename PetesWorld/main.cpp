@@ -1,8 +1,8 @@
 // program to find countries in Pete's World
-// date November 2022
+// date: 08 November 2024
 // author Pete Lowe
-// add your name here
-//  or here
+// add your name here: Ak Bitu
+//  or here: Kittithep
 // estimated time 120 minutes
 // actual time ??
 // version 1.0
